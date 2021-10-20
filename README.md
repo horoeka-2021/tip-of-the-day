@@ -8,6 +8,7 @@
 | `ALT/Option` + Left Arrow | Go back to previous location                                                    |
 | `log` snippet             | In vscode type `log` and hit tab. Vscode will automatically write `console.log` |
 | `ALT/Option` + Click      | Multi-cursor edit                                                               |
+| `CTRL/COMMAND` + P        | Search by file name.<br>Very handy when working with large codebase.            |
 
 ## Dicord
 
