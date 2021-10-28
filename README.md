@@ -10,6 +10,10 @@
 | `ALT/Option` + Click      | Multi-cursor edit                                                               |
 | `CTRL/COMMAND` + P        | Search by file name.<br>Very handy when working with large codebase.            |
 
+## Developer Tools
+
+[Flexbox debugger](https://daily-dev-tips.com/posts/chrome-devtools-flex-debugger/)
+
 ## Dicord
 
 To share a block a of code use, surrond your code with triple ` (back ticks)
